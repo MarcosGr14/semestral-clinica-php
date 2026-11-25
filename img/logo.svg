@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 56" width="260" height="56" role="img" aria-label="Clínica Santa Aurora">
+  <!-- Símbolo geométrico: arco de aurora y eje vertical -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="4" y="6" width="44" height="44" rx="8" fill="#F7F4EE" stroke="#E8E1D4" stroke-width="1.2"/>
+    <path d="M13 36 A13 13 0 0 1 39 36" stroke="#0F3D3E" stroke-width="2"/>
+    <path d="M19 36 L26 17 L33 36" stroke="#0F3D3E" stroke-width="1.8"/>
+    <line x1="12" y1="36" x2="40" y2="36" stroke="#B08D57" stroke-width="1.6"/>
+    <circle cx="26" cy="14" r="1.8" fill="#B08D57"/>
+  </g>
+  <!-- Marca tipográfica -->
+  <text x="60" y="25" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-weight="700" letter-spacing="1.2" fill="#0F3D3E">SANTA AURORA</text>
+  <line x1="60" y1="31" x2="108" y2="31" stroke="#B08D57" stroke-width="1"/>
+  <text x="60" y="43" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="9.5" font-weight="600" letter-spacing="2.4" fill="#5B6B6A">CLÍNICA MÉDICA</text>
+</svg>
